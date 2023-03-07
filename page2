@@ -12,7 +12,7 @@
     <p>Пройден успешно!</p>
     <ul>
       <li>
-        <button class="myButton" onclick="window.location.href='index'">
+        <button class="myButton" onclick="window.location.href='index.htmlrcr'">
           Перейти обратно
         </button>
       </li>
